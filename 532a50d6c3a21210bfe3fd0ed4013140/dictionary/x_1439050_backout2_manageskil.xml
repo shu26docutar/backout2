@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ad0088638398ae504e28cb65eeaad333" label="ManageSkil" max_length="40" name="x_1439050_backout2_manageskil" type="collection">
+        <element label="仕様経験のあるスキル" max_length="4000" name="expelience_skills" reference="x_1439050_backout2_skilmaster" type="glide_list"/>
+        <element label="知識のあるスキル" max_length="4000" name="knew_skills" reference="x_1439050_backout2_skilmaster" type="glide_list"/>
+        <element label="実務経験1年以上のスキル" max_length="4000" name="over_skills" reference="x_1439050_backout2_skilmaster" type="glide_list"/>
+        <element label="ユーザー" max_length="32" name="target_user" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="target_user"/>
+        </index>
+    </element>
+</database>

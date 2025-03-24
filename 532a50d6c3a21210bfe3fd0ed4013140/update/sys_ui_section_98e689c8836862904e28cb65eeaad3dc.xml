@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="関連リンク" section_id="98e689c8836862904e28cb65eeaad3dc" sys_domain="global" table="x_1439050_backout2_sample1" version="3" view="">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>shuhei.hattori</sys_created_by>
+            <sys_created_on>2025-03-22 22:31:39</sys_created_on>
+            <sys_id>09078dc8836862904e28cb65eeaad382</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>shuhei.hattori</sys_updated_by>
+            <sys_updated_on>2025-03-22 22:31:39</sys_updated_on>
+            <text>test</text>
+            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>09078dc8836862904e28cb65eeaad382</element>
+            <position>0</position>
+            <sys_created_by>shuhei.hattori</sys_created_by>
+            <sys_created_on>2025-03-22 22:31:39</sys_created_on>
+            <sys_id>81078dc8836862904e28cb65eeaad385</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="関連リンク" display_value="関連リンク" name="x_1439050_backout2_sample1" sys_domain="global" view="Default view">98e689c8836862904e28cb65eeaad3dc</sys_ui_section>
+            <sys_updated_by>shuhei.hattori</sys_updated_by>
+            <sys_updated_on>2025-03-22 22:31:39</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>REL.x_1439050_backout2_sample1.REL:5ea20544836862904e28cb65eeaad390</element>
+            <position>1</position>
+            <sys_created_by>shuhei.hattori</sys_created_by>
+            <sys_created_on>2025-03-22 22:31:39</sys_created_on>
+            <sys_id>89078dc8836862904e28cb65eeaad385</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="関連リンク" display_value="関連リンク" name="x_1439050_backout2_sample1" sys_domain="global" view="Default view">98e689c8836862904e28cb65eeaad3dc</sys_ui_section>
+            <sys_updated_by>shuhei.hattori</sys_updated_by>
+            <sys_updated_on>2025-03-22 22:31:39</sys_updated_on>
+            <sys_user/>
+            <type>list</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>関連リンク</caption>
+            <header>false</header>
+            <name>x_1439050_backout2_sample1</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>shuhei.hattori</sys_created_by>
+            <sys_created_on>2025-03-22 22:31:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>98e689c8836862904e28cb65eeaad3dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1439050_backout2_sample1</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="backout2" source="x_1439050_backout2">532a50d6c3a21210bfe3fd0ed4013140</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="backout2">532a50d6c3a21210bfe3fd0ed4013140</sys_scope>
+            <sys_update_name>sys_ui_section_98e689c8836862904e28cb65eeaad3dc</sys_update_name>
+            <sys_updated_by>shuhei.hattori</sys_updated_by>
+            <sys_updated_on>2025-03-22 22:31:03</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

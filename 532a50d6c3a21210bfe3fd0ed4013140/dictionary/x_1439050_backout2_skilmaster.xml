@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="555084af8318ae504e28cb65eeaad3cc" label="SkilMaster" max_length="40" name="x_1439050_backout2_skilmaster" type="collection">
+        <element label="分野" max_length="32" name="target_genre" reference="x_1439050_backout2_genremaster" type="reference"/>
+        <element label="名称" max_length="40" name="u_name" type="string"/>
+        <index name="index">
+            <element name="target_genre"/>
+        </index>
+    </element>
+</database>

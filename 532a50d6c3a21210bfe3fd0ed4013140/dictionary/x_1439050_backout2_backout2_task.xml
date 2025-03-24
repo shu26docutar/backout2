@@ -1,3 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="a25a9cd6c3a21210bfe3fd0ed4013197" label="backout2_task" max_length="40" name="x_1439050_backout2_backout2_task" type="collection"/>
+    <element db_object_id="a25a9cd6c3a21210bfe3fd0ed4013197" label="backout2_task" max_length="40" name="x_1439050_backout2_backout2_task" type="collection">
+        <element label="所属名" max_length="40" name="department_name" type="string"/>
+        <element label="フラグ" max_length="40" name="flag" type="boolean"/>
+        <element label="秘密事項" max_length="40" name="secret_column" type="string"/>
+        <element label="test" max_length="40" name="test" type="string"/>
+    </element>
 </database>

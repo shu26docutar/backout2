@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_1439050_backout2.test</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <mobile_callable>false</mobile_callable>
+        <name>test</name>
+        <sandbox_callable>false</sandbox_callable>
+        <script><![CDATA[var test = Class.create();
+test.prototype = {
+    initialize: function() {
+    },
+	hoge(){return 'hh'},
+
+    type: 'test'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>shuhei.hattori</sys_created_by>
+        <sys_created_on>2025-03-14 04:59:22</sys_created_on>
+        <sys_id>8a49c8958310e2504e28cb65eeaad361</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="backout2" source="x_1439050_backout2">532a50d6c3a21210bfe3fd0ed4013140</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="backout2">532a50d6c3a21210bfe3fd0ed4013140</sys_scope>
+        <sys_update_name>sys_script_include_8a49c8958310e2504e28cb65eeaad361</sys_update_name>
+        <sys_updated_by>shuhei.hattori</sys_updated_by>
+        <sys_updated_on>2025-03-14 05:04:37</sys_updated_on>
+    </sys_script_include>
+    <sys_es_latest_script action="INSERT_OR_UPDATE">
+        <id>8a49c8958310e2504e28cb65eeaad361</id>
+        <sys_created_by>shuhei.hattori</sys_created_by>
+        <sys_created_on>2025-03-14 04:59:21</sys_created_on>
+        <sys_id>287988198310e2504e28cb65eeaad30a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>shuhei.hattori</sys_updated_by>
+        <sys_updated_on>2025-03-14 04:59:21</sys_updated_on>
+        <table>sys_script_include</table>
+        <use_es_latest>true</use_es_latest>
+    </sys_es_latest_script>
+</record_update>

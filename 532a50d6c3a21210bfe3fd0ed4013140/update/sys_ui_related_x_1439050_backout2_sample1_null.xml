@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_1439050_backout2_sample1" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="sample1 - Default view" name="x_1439050_backout2_sample1" related_list="NULL" sys_domain="global" view="Default view">326445c4836862904e28cb65eeaad355</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>REL:5ea20544836862904e28cb65eeaad390</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>shuhei.hattori</sys_created_by>
+            <sys_created_on>2025-03-22 22:20:18</sys_created_on>
+            <sys_id>fe6445c4836862904e28cb65eeaad355</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>shuhei.hattori</sys_updated_by>
+            <sys_updated_on>2025-03-22 22:20:18</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>sample1 - Default view</calculated_name>
+            <filter/>
+            <name>x_1439050_backout2_sample1</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>shuhei.hattori</sys_created_by>
+            <sys_created_on>2025-03-22 22:20:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>326445c4836862904e28cb65eeaad355</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sample1 - Default view</sys_name>
+            <sys_package display_value="backout2" source="x_1439050_backout2">532a50d6c3a21210bfe3fd0ed4013140</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="backout2">532a50d6c3a21210bfe3fd0ed4013140</sys_scope>
+            <sys_update_name>sys_ui_related_x_1439050_backout2_sample1_null</sys_update_name>
+            <sys_updated_by>shuhei.hattori</sys_updated_by>
+            <sys_updated_on>2025-03-22 22:20:18</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

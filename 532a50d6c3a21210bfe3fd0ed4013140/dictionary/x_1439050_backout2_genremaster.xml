@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="90030c278398ae504e28cb65eeaad30e" label="分野マスタ" max_length="40" name="x_1439050_backout2_genremaster" type="collection">
+        <element display="true" label="分野名" max_length="40" name="genre_name" type="string"/>
+    </element>
+</database>

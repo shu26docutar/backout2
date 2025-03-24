@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="135555b3839422904e28cb65eeaad31f" label="経理種別マスタ" max_length="40" name="x_1439050_backout2_accounting_type_master" type="collection">
+        <element display="true" label="経理種別名" max_length="40" name="accounting_type_name" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d515dd73839422904e28cb65eeaad362" label="sample1" max_length="40" name="x_1439050_backout2_sample1" type="collection">
+        <element choice="3" label="経費種別" max_length="40" name="accounting_type" reference="x_1439050_backout2_accounting_type_master" type="reference">
+            <choice/>
+        </element>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

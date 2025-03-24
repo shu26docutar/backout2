@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_relationship">
+    <sys_relationship action="INSERT_OR_UPDATE">
+        <advanced>false</advanced>
+        <apply_to/>
+        <basic_apply_to>x_1439050_backout2_sample1</basic_apply_to>
+        <basic_query_from>x_1439050_backout2_genremaster</basic_query_from>
+        <insert_callback/>
+        <name>test view</name>
+        <query_from/>
+        <query_with><![CDATA[(function refineQuery(current, parent) {
+
+	// Add your code here, such as current.addQuery(field, value);
+
+})(current, parent);]]></query_with>
+        <reference_field/>
+        <related_list/>
+        <simple_reference>false</simple_reference>
+        <sys_class_name>sys_relationship</sys_class_name>
+        <sys_created_by>shuhei.hattori</sys_created_by>
+        <sys_created_on>2025-03-22 22:13:20</sys_created_on>
+        <sys_id>5ea20544836862904e28cb65eeaad390</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test view</sys_name>
+        <sys_package display_value="backout2" source="x_1439050_backout2">532a50d6c3a21210bfe3fd0ed4013140</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="backout2">532a50d6c3a21210bfe3fd0ed4013140</sys_scope>
+        <sys_update_name>sys_relationship_5ea20544836862904e28cb65eeaad390</sys_update_name>
+        <sys_updated_by>shuhei.hattori</sys_updated_by>
+        <sys_updated_on>2025-03-22 22:13:20</sys_updated_on>
+    </sys_relationship>
+    <sys_translated_text action="delete_multiple" query="documentkey=5ea20544836862904e28cb65eeaad390"/>
+    <sys_es_latest_script action="INSERT_OR_UPDATE">
+        <id>5ea20544836862904e28cb65eeaad390</id>
+        <sys_created_by>shuhei.hattori</sys_created_by>
+        <sys_created_on>2025-03-22 22:13:20</sys_created_on>
+        <sys_id>74d20544836862904e28cb65eeaad33e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>shuhei.hattori</sys_updated_by>
+        <sys_updated_on>2025-03-22 22:13:20</sys_updated_on>
+        <table>sys_relationship</table>
+        <use_es_latest>true</use_es_latest>
+    </sys_es_latest_script>
+</record_update>

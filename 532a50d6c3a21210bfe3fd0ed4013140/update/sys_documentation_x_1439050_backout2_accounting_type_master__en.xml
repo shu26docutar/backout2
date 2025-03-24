@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="経理種別マスタ" language="en" table="x_1439050_backout2_accounting_type_master">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>経理種別マスタ</label>
+            <language>en</language>
+            <name>x_1439050_backout2_accounting_type_master</name>
+            <plural>経理種別マスタs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>shuhei.hattori</sys_created_by>
+            <sys_created_on>2025-03-22 04:56:53</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>経理種別マスタ</sys_name>
+            <sys_package display_value="backout2" source="x_1439050_backout2">532a50d6c3a21210bfe3fd0ed4013140</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="backout2">532a50d6c3a21210bfe3fd0ed4013140</sys_scope>
+            <sys_update_name>sys_documentation_x_1439050_backout2_accounting_type_master__en</sys_update_name>
+            <sys_updated_by>shuhei.hattori</sys_updated_by>
+            <sys_updated_on>2025-03-22 04:56:53</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
